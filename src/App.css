@@ -1,7 +1,3 @@
-body {
-  max-width: 80%;
-}
-
 h1 {
   font-size: 42px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -22,7 +18,7 @@ li:first-letter {
 }
 
 .weather-app-wrapper {
-  max-width: 600px;
+  max-width: 500px;
   margin: 30px auto;
 }
 
@@ -30,7 +26,6 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dfdfe3;
   border-radius: 5px;
-  background-image: url(/Users/ilzerieba/Desktop/Coding/Git/shecodes_vanilla_weather_app/files/app_background.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
